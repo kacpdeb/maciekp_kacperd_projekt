@@ -265,6 +265,3 @@ def spadek_swobodny():
         plt.show()
 
 
-
-
-
