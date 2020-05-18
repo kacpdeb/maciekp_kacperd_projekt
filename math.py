@@ -1,6 +1,25 @@
 import math
 import matplotlib.pyplot as plt
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def spadek_swobodny():
     z = 0
 
@@ -263,6 +282,10 @@ def spadek_swobodny():
         plt.ylabel('m')
         plt.draw()
         plt.show()
+
+
+
+
 
 
 
